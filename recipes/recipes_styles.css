@@ -20,7 +20,8 @@ h3{
 }
 
 
-a{
-    align-items: center;
+#home-link{
+    text-align: center;
     color: #8e4162;
+    padding: 400px;
 }
