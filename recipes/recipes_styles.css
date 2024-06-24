@@ -6,7 +6,7 @@
     box-sizing: border-box;
     padding: 5px;
     margin: 5px;
-    border: .5px solid blueviolet;
+    /* border: .5px solid blueviolet; */
 }
 
 
@@ -17,10 +17,6 @@ body{
 
 p{
     color: #1A535C;
-}
-
-li{
-    color: #8e4162;
 }
 
 div.header{
@@ -67,9 +63,10 @@ div .image-dessert{
 
 }
 
-.ingredients ul{
+.ingredients li{
     width: 600px;
     margin: 5px auto;
+    color: #1A535C;
 
 }
 
@@ -87,9 +84,10 @@ div .image-dessert{
 
 }
 
-.sub-ingredients ul{
+.sub-ingredients li{
     width: 600px;
     margin: 0 auto;
+    color: #8e4162
 
 }
 
