@@ -5,11 +5,15 @@
     margin: 5px;
     padding: 5px;
 }
-
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background-color: burlywood;
+}
+
+.header{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet
+    
 }
 
 
